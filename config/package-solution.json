@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ModernTabs-WebPart",
+    "id": "97fcdd94-5fbb-4966-82a0-c25151ccfc18",
+    "version": "1.6.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "Free for any use",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Modern Tabs WebPart"
+      },
+      "longDescription": {
+        "default": "Modern Tabs webpart allows you to split webparts on the page into tabs!"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Modern Tabs Web Part Feature",
+        "description": "The feature that activates elements of the modern-tab solution.",
+        "id": "56fc8c67-d5ae-48e9-9f6c-4da290cca50e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/modern-tab.sppkg"
+  }
+}
