@@ -33,8 +33,6 @@ export default class ModernTabsWebPart extends BaseClientSideWebPart<IModernTabs
 
   public render(): void {
     require('./AddTabs.css');
-    //require('./jquery.min.js');
-
     
     this._checkGroup().then(results=>{results.forEach(result=>{this.usergroups.push(result.Title)})}).then(()=>{
     
@@ -120,7 +118,7 @@ export default class ModernTabsWebPart extends BaseClientSideWebPart<IModernTabs
         observer.observe(zone,{ childList: true });
       }
     }
-  });
+  }).catch(error =>{ console.log(error)});
   }
 
 
@@ -208,7 +206,8 @@ export default class ModernTabsWebPart extends BaseClientSideWebPart<IModernTabs
   protected onDispose(): void {
     ReactDom.unmountComponentAtNode(this.domElement);
   }
-    
+  
+  //@ts-ignore  ignore due to TypeScript issue
   protected get dataVersion(): Version {
     return Version.parse('1.0');
   }
