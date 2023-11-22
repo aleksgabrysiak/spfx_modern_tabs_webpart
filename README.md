@@ -14,7 +14,7 @@ Adding this webpart to the page allows to organize all different webparts in the
 Tabs can be configured - names can be adjusted as well as you can set the visiblity of the tab for specific SharePoint group members!
 In the edit mode you can find that each webpart on the page will have additional marking (WebPart #1, WebPart #2 etc.)\
 
-!(https://github.com/aleksgabrysiak/spfx_modern_tabs_webpart/blob/main/ModernTabs.gif)
+![ModernTabs](https://github.com/aleksgabrysiak/spfx_modern_tabs_webpart/blob/main/ModernTabs.gif)
 
 # Limitations:
 Currently it is not possible to add the Modern Tabs webpart multiple times in the same section and embed it into another Modern Tab webpart - this is not supported, cannot predict what's gonna happen :)
