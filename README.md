@@ -1,3 +1,9 @@
+# About me & the solution
+\
+This solution has been developed in response to the need of having cool looking tabs and hiding tabs depending on the user's group belonging. 
+I am not a developer, just an enthusiast, so the solution is far from being optimal/well-written. It serves the purpose as of now :)
+If you have some time, feel free to download it, clean it for yourself, redesign etc! 
+
 # Prerequisites
 \
 The solution is based on the SPFX v1.18
