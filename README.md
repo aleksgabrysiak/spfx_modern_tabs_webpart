@@ -21,8 +21,7 @@ Currently it is not possible to add the Modern Tabs webpart multiple times in th
 
 
 # Credits
-Original Solution: https://github.com/mrackley/Modern_Hillbilly_Tabs 
-AddTab script  CSS refered in the code: https://www.jqueryscript.net/other/Minimal-Handy-jQuery-Tabs-Plugin-AddTabs.html by dustinpoissant
+Original Solution: https://github.com/mrackley/Modern_Hillbilly_Tabs \AddTab script  CSS refered in the code: https://www.jqueryscript.net/other/Minimal-Handy-jQuery-Tabs-Plugin-AddTabs.html by dustinpoissant
 # Disclaimer
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
