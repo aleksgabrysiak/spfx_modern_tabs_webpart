@@ -1,5 +1,5 @@
 # About me & the solution
-This solution has been developed in response to the need of having cool looking tabs and hiding tabs depending on the user's group belonging. 
+This solution is a fork of existing solution (see section Credits) and has been developed in response to the need of having cool looking tabs with possibility of hiding tabs depending on the SharePoint user's group belonging. 
 I am not a developer, just an enthusiast, so the solution is far from being optimal/well-written. It serves the purpose as of now :)
 If you have some time, feel free to download it, clean it for yourself, redesign etc! 
 
@@ -22,7 +22,7 @@ Currently it is not possible to add the Modern Tabs webpart multiple times in th
 
 # Credits
 Original Solution: https://github.com/mrackley/Modern_Hillbilly_Tabs 
-
+AddTab script  CSS refered in the code: https://www.jqueryscript.net/other/Minimal-Handy-jQuery-Tabs-Plugin-AddTabs.html by dustinpoissant
 # Disclaimer
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
